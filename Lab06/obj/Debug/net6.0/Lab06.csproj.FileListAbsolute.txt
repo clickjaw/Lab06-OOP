@@ -1,0 +1,15 @@
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.csproj.AssemblyReference.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.AssemblyInfoInputs.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.AssemblyInfo.cs
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.csproj.CoreCompileInputs.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/bin/Debug/net6.0/Lab06
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/bin/Debug/net6.0/Lab06.deps.json
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/bin/Debug/net6.0/Lab06.runtimeconfig.json
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/bin/Debug/net6.0/Lab06.dll
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/bin/Debug/net6.0/Lab06.pdb
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.dll
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/refint/Lab06.dll
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.pdb
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/Lab06.genruntimeconfig.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/obj/Debug/net6.0/ref/Lab06.dll

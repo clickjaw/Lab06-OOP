@@ -1,0 +1,15 @@
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/bin/Debug/net6.0/zoo
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/bin/Debug/net6.0/zoo.deps.json
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/bin/Debug/net6.0/zoo.runtimeconfig.json
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/bin/Debug/net6.0/zoo.dll
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/bin/Debug/net6.0/zoo.pdb
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.csproj.AssemblyReference.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.AssemblyInfoInputs.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.AssemblyInfo.cs
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.csproj.CoreCompileInputs.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.dll
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/refint/zoo.dll
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.pdb
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/zoo.genruntimeconfig.cache
+/Users/tylermorgan/code401/LABS/Lab06-OOP/Lab06/zoo/obj/Debug/net6.0/ref/zoo.dll
