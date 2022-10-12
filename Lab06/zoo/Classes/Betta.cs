@@ -13,12 +13,13 @@ namespace zoo.Classes
             Name = name;
             Food = food;
         }
-        public override void strong(){
-            Console.WriteLine("\tThey can withstand a lot. A 4 year old can't kill them.");
+        public override void Strong()
+        {
+            Console.WriteLine("They can withstand a lot. A 4 year old can't kill them.");
         }
         public override void About()
         {
-            Console.WriteLine($"We have one {Name}. We never said we were a good zoo. ");
+            Console.WriteLine($"We have one {Name}. We never said we were a good zoo.");
         }
     }
 

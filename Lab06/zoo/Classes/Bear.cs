@@ -22,7 +22,7 @@ namespace zoo.Classes
         }
         public override void descript()
         {
-            Console.WriteLine($"\t\t{Name} likes {Food}.");
+            Console.WriteLine($"\t\t{Name}s likes {Food}.");
         }
     }
 

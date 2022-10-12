@@ -21,7 +21,7 @@ namespace zoo.Classes
         }       
         public override void About()
         {
-            Console.WriteLine("\tThey're birds.....so they fly.");
+            Console.WriteLine($"\t{Name}s are birds.....so they fly.");
         }
     }
 

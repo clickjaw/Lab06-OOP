@@ -8,9 +8,9 @@ namespace zoo.Classes
         public abstract string Food { get; set; }
         public virtual void Habitat()
         {
-            Console.WriteLine("\tFish live in water");
+            Console.WriteLine("\tFish live in water.");
         }
-        public abstract void strong();
+        public abstract void Strong();
         public abstract void About();
     }
 }

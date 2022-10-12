@@ -13,6 +13,11 @@ namespace zoo.Classes
             Name = name;
             Food = food;
         }
+
+        public override void About()
+        {
+            Console.WriteLine($"{Name}s eat people in Florida.");
+        }
     }
 
 }
