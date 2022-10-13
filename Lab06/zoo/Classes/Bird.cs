@@ -8,5 +8,6 @@ namespace zoo.Classes
         public abstract string Food { get; set; }
         public abstract void Habitat();
         public abstract void About();
+        public abstract void Location();
     }
 }

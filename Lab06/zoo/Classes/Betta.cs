@@ -7,12 +7,17 @@ namespace zoo.Classes
     {
         public override string Name { get; set; }
         public override string Food { get; set; }
+        public string AnimalLocation{get; set;}
+        public string LocationClimate{get; set;}
 
-        public Betta(string name, string food)
+        public Betta(string name, string food, string location, string climate)
         {
             Name = name;
             Food = food;
+            AnimalLocation = location;
+            LocationClimate = climate;
         }
+
         public override void Strong()
         {
             Console.WriteLine("They can withstand a lot. A 4 year old can't kill them.");
@@ -21,6 +26,11 @@ namespace zoo.Classes
         {
             Console.WriteLine($"We have one {Name}. We never said we were a good zoo.");
         }
+        public override void Location()
+        {
+            Console.WriteLine($"\t\t{Name} fish are found in {AnimalLocation}. They live in {LocationClimate}.");
+        }
+
     }
 
 }

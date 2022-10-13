@@ -1,16 +1,21 @@
 using System;
+using zoo.Interfaces;
 
 namespace zoo.Classes
 {
 
-    public class Bear : Mammal
+    public class Bear : Mammal, IHabitat
     {
         public override string Name { get; set; }
         public override string Food { get; set; }
+        public string AnimalLocation{get; set;}
+        public string LocationClimate{get; set;}
 
-        public Bear(string name, string food){
+        public Bear(string name, string food, string location, string climate){
             Name = name;
             Food = food;
+            AnimalLocation = location;
+            LocationClimate = climate;
         }
 
         public override void About(){
@@ -20,9 +25,9 @@ namespace zoo.Classes
         public override void fur(){
             Console.WriteLine("\t\t\tfurry af");
         }
-        public override void descript()
+        public override void Location()
         {
-            Console.WriteLine($"\t\t{Name}s likes {Food}.");
+            Console.WriteLine($"\t\t{Name}s likes {Food}. They are found in {AnimalLocation}");
         }
     }
 

@@ -10,6 +10,7 @@ namespace zoo.Classes
         
         public abstract void About();
         public abstract void Habitat();
+        public abstract void Location();
 
 
 

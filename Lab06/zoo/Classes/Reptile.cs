@@ -8,8 +8,9 @@ namespace zoo.Classes
         public abstract string Food { get; set; }
         public virtual void Habitat()
         {
-            Console.WriteLine("Reptiles have the ability, depending on species, to live on land and in water.\n");
+            Console.WriteLine("Reptiles have the ability, depending on species, to live on land and in water.");
         }
         public abstract void About();
+        public abstract void Location();
     }
 }

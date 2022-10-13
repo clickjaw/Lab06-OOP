@@ -9,7 +9,7 @@ namespace zoo.Classes{
             Console.WriteLine("Mammals live on land.");
         }
         public abstract void fur();
-        public abstract void descript();
+        public abstract void Location();
         public abstract void About();
     }
 }

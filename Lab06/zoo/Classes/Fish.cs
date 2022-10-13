@@ -12,5 +12,6 @@ namespace zoo.Classes
         }
         public abstract void Strong();
         public abstract void About();
+        public abstract void Location();
     }
 }
