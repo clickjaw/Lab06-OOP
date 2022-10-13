@@ -8,8 +8,14 @@ namespace zoo
     {
         static void Main(string[] args)
         {
+
+            ConsoleColor[] colors = (ConsoleColor[])ConsoleColor.GetValues(typeof(ConsoleColor));
+            ConsoleColor currentForeground = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.Red;
+
             Console.Clear();
-            Console.WriteLine("Welcome to Digital Native Zoo.");
+            Console.WriteLine("Welcome to Digital Native Zoo.", ConsoleColor.Red);
+            Console.ResetColor();
             Console.WriteLine("I'm the warden of this unethical playground. Continue?");
             Console.ReadKey();
             Console.WriteLine("\n");
